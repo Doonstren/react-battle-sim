@@ -1,0 +1,5 @@
+{
+  "name": "React Battle Sim",
+  "description": "A high-performance real-time battle simulator ported to React with Gemini-powered strategic analysis.",
+  "requestFramePermissions": []
+}
